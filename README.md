@@ -1,6 +1,8 @@
 # Sheet Music 🎶 Analysis with Gemini 💠
 Sheet Music 🎶 Analysis with Gemini 💠
 
+<a href="https://en.wikipedia.org/wiki/Sheet_music">Sheet Music 🎶 Analysis with Gemini 💠</a>
+
 Sheet Music 🎶 is the primary form of music notation used by composers and performers across the world 🌏. These pages 📜 contain information about the lyrics, pitches, rhythms, composer, text author, composition date, among others.
 In this code 📜 we've extracted structured metadata from sheet music PDFs using Gemini.
 
